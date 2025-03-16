@@ -12,6 +12,8 @@
 ###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=annatony2&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=your-annatony2&theme=Dracula)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=annatony2&icon=2&color=1)](https://visitcount.itsvg.in)
 
