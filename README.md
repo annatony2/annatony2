@@ -1,8 +1,8 @@
 # Hi, I'm Anna Tony !
 <br><br>💭Currently learning Computer Science & Engineering
 
-<img
-src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="1000"/>
+
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
 ![GIF](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif" width="500"/>
 
